@@ -475,7 +475,7 @@ const TT_Riing_Trio = {
 				// 8,								6,				
 								// 7,								
 
-back
+//back
 					// 13,					
 			// 12,				14,			
 										
